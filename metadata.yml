@@ -1,0 +1,12 @@
+---
+:id: 55745719
+:submitters:
+- :name: Rose Briseno
+  :email: rose.briseno@students.makeschool.com
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-17 04:06:13.608739000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-16 20:06:13.608739000 Z
+:status: processed
+:score: 6.0
